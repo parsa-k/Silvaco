@@ -5,8 +5,8 @@
 * used Silvaco for simulation. codes had two libraries ATHENA and ATLAS.
 * Drain Current(A) Vs Gate Bias(V)  and also Drain Current(A) Vs  Drain Voltage(V) drawn under the terms of the article.
 
-we approximately achieve the result of the paper. 
+we approximately achieve the result of the paper. \
 \
-\
+
 # Structure
 ![Structure](https://raw.githubusercontent.com/parsa-k/Silvaco/main/result/Structure.JPG)
